@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022bmc17_640/2022bmc170001_640_01.jpg",
+    "description": "The BMW 5 Series is a mid-sized luxury sedan, competing with the Mercedes E-Class, the Audi A6 and the Lexus GS series. The 5 Series offers all the luxury of its various competitors while giving drivers a significantly sportier driving experience than any of its peers. Handling is and always has been world-class for the line, with powerful engines, sharp steering and a playful chassis. The 5 Series is even offered with a hybrid electric engine model that achieves extraordinary gas mileage, even while carving corners.",
+    "name": "BMW M5",
+    "model": 2022,
+    "production": 2019,
+    "price": "103,700"
+  },
+  {
+    "id": 2,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022mbcce_640/2022mbcce0001_640_01.jpg",
+    "description": "The AMG GT is one of the most technologically advanced sports cars on the market, with a stunning, beautifully sculpted exterior and well-integrated technology, it is a stand-out in the segment. To go along with all the flash and gadgetry the GT's drivetrain is sharp and responsive providing seamless shifts via the 9-speed automatic transmission in-between roaring exhaust notes when given the room to roam. With the AMG GT, Mercedes has taken direct aim at its German counterparts, particularly the Porsche 911 Carrera GTS. While both vehicles are similarly priced and perform on the same level they go about the matter in completely different ways.",
+    "name": "Mercedes-Benz AMG GT",
+    "model": 2022,
+    "production": 2018,
+    "price": "92,500"
+  },
+  {
+    "id": 3,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022lec37_640/2022lec370001_640_01.jpg",
+    "description": "The LS starts at $10,000 less than a 7 Series and close to $30,000 less than the S-Class. For that price it offers massive levels of refinement, luxury and performance, all while continuing to display the build quality, reliability and excellent resale value that Lexus has always been known for.",
+    "name": "Lexus LS",
+    "model": 2022,
+    "production": 2019,
+    "price": "76,100"
+  },
+  {
+    "id": 4,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022auc03_640/2022auc030001_640_01.jpg",
+    "description": "The Audi A6 is a mid-sized luxury sedan sitting above both the Audi A3 and the Audi A4 in Audi's lineup. Only the full-sized Audi A8 offers more luxury and space than the A6. Despite this the Audi A6 has a reasonable base price, netting buyers an extremely luxurious car that comes with an enviable nameplate. Audi has traditionally focused heavily on technology and the new A6 isn't looking to buck that trend, buyers will be able to option their cars up with the latest in connectivity, driver assistance and infotainment technologies all wrapped up in a cockpit that looks like it came from the future.",
+    "name": "Audi S6",
+    "model": 2022,
+    "production": 2019,
+    "price": "74,800"
+  },
+  {
+    "id": 5,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022kic19_640/2022kic190068_640_01.jpg",
+    "description": "The entry-level Stinger pricing puts it in the ballpark of the BMW 3-Series and the Audi A4 squarely in its crosshairs. The Stinger is actually a little bigger than those cars, which makes it closer in size to the upmarket 5-Series and Audi A6. Fortunately, the Stinger doesn't feel big and handling is terrific, especially for an automaker not traditionally known for its performance-oriented designs. The Stinger's high-output engine lineup, bold styling, and strong equipment mean Kia can now be directly compared to the best European sedans available. The Kia is priced competitively, too, making it a much better value than just about any sport sedan out there.",
+    "name": "Kia Stinger",
+    "model": 2022,
+    "production": 2019,
+    "price": "36,290"
+  },
+  {
+    "id": 6,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022chc11_640/2022chc110016_640_01.jpg",
+    "description": "The Chevrolet Malibu is a full-sized sedan that competes with both mid-sized cars such as the Toyota Camry, Honda Accord, and Hyundai Sonata. The Malibu has always featured a comfortable interior with plenty of room. The Malibu's wheelbase allows for plenty of space and reduced weight over its predecessor, which aids in improved handling, fuel economy, and acceleration",
+    "name": "Chevrolet Malibu",
+    "model": 2022,
+    "production": 2019,
+    "price": "23,400"
+  },
+  {
+    "id": 7,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022crc13_640/2022crc130001_640_01.jpg",
+    "description": "The Chevrolet Malibu is a full-sized sedan that competes with both mid-sized cars such as the Toyota Camry, Honda Accord, and Hyundai Sonata. The Malibu has always featured a comfortable interior with plenty of room. The Malibu's wheelbase allows for plenty of space and reduced weight over its predecessor, which aids in improved handling, fuel economy, and acceleration",
+    "name": "Chrysler 300",
+    "model": 2022,
+    "production": 2019,
+    "price": "31,770"
+  },
+  {
+    "id": 8,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022suc17_640/2022suc170002_640_01.jpg",
+    "description": "The 300 presents a luxury big-car design and style at an affordable price. The car retains Audi-inspired exterior styling but features more Chrysler-like pricing. The lineup of powerful engines and available all-wheel drive mean the 300 also has performance credibility to match its style. Inside, a comprehensive list of standard equipment as well as safety technology means the 300 competes above its class in both features and price.",
+    "name": "Subaru WRX",
+    "model": 2022,
+    "production": 2019,
+    "price": "29,605"
+  },
+  {
+    "id": 9,
+    "image": "https://img.autobytel.com/chrome/multiview/white/640/2022inc25_640/2022inc250052_640_01.jpg",
+    "description": "The 2023 Infiniti Q50 is a stylish, sophisticated sports sedan, with European competitors in its sights. The Infiniti Q50 competes with the BMW M340i, the Mercedes-Benz AMG C43 and the Audi S4. Even in the base trim, the Q50 offers a host of luxury and technology features that are hard to beat. The twin-turbo V6 in the Red Sport trim, with up to 400 horsepower, easily trumps output from the top-tier models from BMW and Audi",
+    "name": "INFINITI Q50",
+    "model": 2022,
+    "production": 2019,
+    "price": "42,100"
+  },
+  {
+    "id": 10,
+    "image": "https://img.autobytel.com/chrome/expanded/white/640/2023fos13_640/2023fos130009_640_01.jpg",
+    "description": "The Ford Escape continues to be a standout in the compact SUV class where it competes with established names such as the Honda CR-V and the Toyota RAV4. The new Escape should offer fantastic value by giving buyers a good compromise between interior room, sporty looks and fuel efficiency. While other SUV's in the segment can seem a little bare bone at times, the 2023 Escape offers a slightly more upscale feel thanks to all the technology on offer.",
+    "name": "Ford Escape",
+    "model": 2023,
+    "production": 2019,
+    "price": "46,100"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "User1",
+    "phone": "09682800210",
+    "email": "user@gmail.com",
+    "image": "user1 photo",
+    "address": "Yangon"
+  },
+  {
+    "id": 2,
+    "name": "User2",
+    "phone": "09682800310",
+    "email": "user2@gmail.com",
+    "image": "user2 photo",
+    "address": "Bago"
+  },
+  {
+    "id": 3,
+    "name": "User3",
+    "phone": "09682800410",
+    "email": "user3@gmail.com",
+    "image": "user3 photo",
+    "address": "Mandalay"
+  }
+]
